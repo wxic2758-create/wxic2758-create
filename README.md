@@ -1,4 +1,4 @@
-# Mac tools by Dax Beal
+# Mac tools
 
 I build focused Mac utilities for everyday file workflows. Each app below is free on the Mac App Store.
 
